@@ -1,4 +1,9 @@
 # Bamazon
+
+video link to the Bamazon App working:
+
+https://drive.google.com/file/d/1cThq2v_4CtsMKlNgWNLVB7T4foE7TFSM/view
+
 Bamazon mySql
 
 # Node.js & MySQL
